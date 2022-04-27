@@ -1,12 +1,12 @@
 # Mapping Earthquakes
 
 ## Overview
-I used Mapbox to convey the earthquake data in relation to tectonic plates. All the earthquakes with a magnitude greater than 4.5 and lines demarking the tectonic plates are on the map
+Using Mapbox API, I conveyed earthquake data in relation to tectonic plates. Tectonic plates are marked on the map along with earthquakes larger than 4.5 in magnitude.
 ## Results
-I created three different tile layers for the end user to toggle between. The three different Mapbox styles are Dark, Satellite and Street Satellite. In addition, there is a legend conveying the color significance of each dot. The radius of each circle marker corresponds to the magnitude of the earthquake. 
-The layers allow the end user to focus on what they’d like to see on the map. A user can toggle between the following overlays: 
+The end-user can toggle between three different tile layers. Dark, Satellite, and Street Satellite are the three different Mapbox styles. Furthermore, there is a legend explaining the significance of each color. In each circle, the radius is based on the earthquake's magnitude. 
+Using layers, the end-user can focus on the information they are interested in. A user can toggle between the following overlays: 
 
-### Overlays: 
+### Overlays 
 
 -	Earthquakes
 <img width="560" alt="earthquakes" src="https://user-images.githubusercontent.com/87162266/147747091-467aa74b-322d-4f70-93b5-5f1dd8728637.PNG">
@@ -22,4 +22,5 @@ The layers allow the end user to focus on what they’d like to see on the map. 
 
 ## Conclusion
 
-I used the live console to pinpoint my errors. I found this feedback useful when trouble shooting. The console feedback aided my understanding of mechanism of each line of code in the JavaScript files and the HTML file.
+The live console helped me pinpoint my errors. When troubleshooting, this feedback was incredibly helpful. I was able to better understand how each line of code worked in the JavaScript and HTML files with the console feedback.
+
